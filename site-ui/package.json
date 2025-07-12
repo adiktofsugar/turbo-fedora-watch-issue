@@ -1,0 +1,12 @@
+{
+  "name": "site-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build":"esbuild index.ts --bundle --outdir=dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
